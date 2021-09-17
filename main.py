@@ -291,7 +291,7 @@ while rodar == True:
                     else:
                         adicionarValorComentarios(constants, y)
                     importlib.reload(constants)        
-                    os.system("cls")
+                    os.system('cls' if os.name == 'nt' else 'clear')
                     print(f"Participando do sorteio de: {nomeDoSorteio}\nContas ativas no momento: [{len(ativas)}] {ativas}\nTotal de comentários: {totalComentarios()}\nQuarentena: {constants.quarentena}")
             sleep(random.randint(300, 480)) # 300s = 5min  480s = 8min (waves de 10 comentários em todas as contas com delay entre 5 e 8 min)
         sleep(random.randint(2400, 5400)) # 2400s = 40min | 5400s = 90min (depois de completar 10 waves gerar delay entre 40 e 90 minutos)
