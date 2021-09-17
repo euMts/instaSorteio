@@ -268,7 +268,7 @@ def verificarQuarentena():
     else: 
         adicionarValorCiclos(constants)
 
-# - INICIALIZACAO -
+# - INICIALIZAÇÃO -
 gerarInstancias(contas, senhas)
 nomeDoSorteio = pegarNomeDoSorteio(url)
 
