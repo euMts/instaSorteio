@@ -20,7 +20,6 @@ Ultima atualização: **15/09/2021**<br>
 
 #### Importações necessárias:
 - Selenium<br>
-- Datetime<br>
 - Time<br>
 - Random<br>
 - Importlib<br>
