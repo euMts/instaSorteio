@@ -6,7 +6,7 @@ Este script comenta automaticamente em sorteios do Instagram com pausas randomiz
 Utilização disponível através de **Python**.<br>
 
 ### Termos de uso
-Qualquer um pode utilizar este código para **uso pessoal**. a comercialização do mesmo é estritamente proibida.<br>
+Qualquer um pode utilizar este código para **uso pessoal**. A comercialização do mesmo é estritamente proibida.<br>
 
 ### Explicação
 Fiz um vídeo no youtube explicando como configurar e utilizar o script.<br>
