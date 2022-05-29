@@ -1,6 +1,5 @@
 # Instagram Sorteios
-## PT-BR
-
+[![license mit](https://img.shields.io/badge/license-MIT-green)](LICENSE.md)<br>
 Este script comenta automaticamente em sorteios do Instagram com pausas randomizadas.<br>
 
 Utilização disponível através de **Python**.<br>
